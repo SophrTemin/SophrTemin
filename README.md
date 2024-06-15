@@ -3,10 +3,9 @@ Shalom, my name is Far Particular(Egor)
 
 ### 💾 About me
 - 15 years old
-- ru-RU/en-US
+- ru-RU / en-US
 - Russia / Perm Krai / '+5 Yekat'
 - Linux fan / theme builder
-- I love the furries
 
 ### 💻 Specs
 * MX110 / HD620
