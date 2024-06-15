@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🦊 FarParticul
+Shalom, my name is Far Particular(Egor)
 
-<!--
-**FarParticul/FarParticul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💾 About me
+- 15 years old
+- ru-RU/en-US
+- Russia / Perm Krai / '+5 Yekat'
+- Linux fan / theme builder
+- I love the furries
 
-Here are some ideas to get you started:
+### 💻 Specs
+* MX110 / HD620
+* I3-7020U
+* 8GB RAM / 256GB SSD
+* ASUS X543U
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 What I'm do/did
+- Building config for OpenCore
+- Customizing wm's
+- Making dot files for wm's
+- I love to read / listen about UNIX
+- I'm studying UNIX like operating systems
+- I've been making pull requests
+- A fan of Minecraft
+
+
