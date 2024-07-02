@@ -1,5 +1,5 @@
-## 🦊 FarParticul
-Shalom, my name is Far Particular(Egor)
+## 🦊 SophrTemin
+Shalom, my name is Sophron Teminik(Egor)
 
 ### 💾 About me
 - 15 years old
