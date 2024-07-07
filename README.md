@@ -13,6 +13,10 @@ Shalom, my name is Sophron Teminik(Egor)
 * 8GB RAM / 256GB SSD
 * ASUS X543U
 
+### 🖥️ OS 
+* 🦎 openSUSE Tumbleweed
+* 🍁 Haiku
+
 ### 📋 What I'm do/did
 - Building config for OpenCore
 - Customizing wm's
