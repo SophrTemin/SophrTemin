@@ -1,5 +1,5 @@
 ## 🦊 SophrTemin
-Shalom, my name is Sophron Teminik(Egor)
+Shalom, my name is Sophron Teminik
 
 ### 💾 About me
 - 15 years old
