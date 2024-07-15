@@ -25,5 +25,6 @@ Shalom, my name is Sophron Teminik
 - I'm studying UNIX like operating systems
 - I've been making pull requests
 - A fan of Minecraft
+- Moder openSUSE RU [server](https://discord.gg/EfJDaThh8w)
 
 
