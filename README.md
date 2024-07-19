@@ -27,4 +27,6 @@ Shalom, my name is Sophron Teminik
 - A fan of Minecraft
 - Moder openSUSE RU [server](https://discord.gg/EfJDaThh8w)
 
+my bio: [click](https://t.me/sophrbio)
+
 
